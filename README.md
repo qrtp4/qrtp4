@@ -53,3 +53,19 @@ To build a new standard where **digital value requires digital identity**.
 
 ## 🔑 Motto
 **Center of Power is Identity.**
+
+
+## 💰 Support
+
+If you find this project useful, you can support development:
+
+**XRP Wallet:**
+```
+rW6mfR5R8PEqY6idUB2Hz7HgvhS72S96k
+```
+
+![XRP QR Code](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=rW6mfR5R8PEqY6idUB2Hz7HgvhS72S96k)
+
+---
+
+**QRTP-4** — *No Passport = No Trust.*
